@@ -93,6 +93,8 @@ int main()
         }
         if (code == 5)
         {
+            printf("chengxutuichu:\n");
+            break;
         }
     }
 
