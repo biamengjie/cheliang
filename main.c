@@ -48,6 +48,15 @@ printf("huanyingjinruzhuangchangguanlixitong:\n");
             }
         }
         if(code==3){
+            printf("souyoudecheliagnweizhiruxia:\n");
+            for(int i=0;i<index;i++){
+                printf("%d (%d,%d)\n",i+1,bbb[i].x,bbb[i].y);
+            }
+            printf("\ndianjihuichejixu:\n");
+             char z;
+            scanf("%c",&z);
+            scanf("%c",&z);
+
             
         }
         if(code==4){
