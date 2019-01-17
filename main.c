@@ -33,7 +33,19 @@ printf("huanyingjinruzhuangchangguanlixitong:\n");
 
         }
         if(code==2){
-            
+            if(index>0){
+                index--;
+                printf("shanchuchengogn,dianjihuichejixu:\n");
+                char z;
+            scanf("%c",&z);
+            scanf("%c",&z);
+            }
+            else{
+                printf("wucheliangweizhixinxi,shanchushibai,dianjihuichejixu:\n");
+                char z;
+            scanf("%c",&z);
+            scanf("%c",&z);
+            }
         }
         if(code==3){
             
