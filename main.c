@@ -17,6 +17,19 @@ printf("huanyingjinruzhuangchangguanlixitong:\n");
         int code;
         scanf("%d",&code);
         if(code==1){
+            printf("qingshurucheliagndeweizhidexzuobiaoheyzuobiao:\n");
+            int x;
+            int y;
+            scanf("%d",&x);
+            scanf("%d",&y);
+            bbb[index].x=x;
+            bbb[index].y=y;
+            index++;
+            printf("tianjiachenggong,dianjihuichejixu:\n");
+            char z;
+            scanf("%c",&z);
+            scanf("%c",&z);
+
 
         }
         if(code==2){
